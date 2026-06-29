@@ -6,6 +6,8 @@ This project presents a scalable cloud architecture designed for deploying a web
 
 The architecture focuses on high availability, scalability and security following AWS Well-Architected principles.
 
+A detailed project report is included in report.pdf, documenting the architecture design, deployment process, testing, and evaluation.
+
 ---
 
 ## AWS Services
